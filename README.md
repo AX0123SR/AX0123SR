@@ -8,6 +8,6 @@
 
 📫 How to reach me..
 
-Linkedin : https://www.linkedin.com/in/come2ayush/
-Website : https://www.mrayush.com/
-Mail : comeayush2@gmail.com
+- Linkedin : https://www.linkedin.com/in/come2ayush/
+- Website : https://www.mrayush.com/
+- Mail : comeayush2@gmail.com
