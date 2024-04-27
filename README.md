@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ax0123sr" alt="ax0123sr" /></a> </p>
+- 🔭 I’m currently working on **Python Automation**
 
-<p align="left"> <a href="https://twitter.com/_mr_xoxo_boy" target="blank"><img src="https://img.shields.io/twitter/follow/_mr_xoxo_boy?logo=twitter&style=for-the-badge" alt="_mr_xoxo_boy" /></a> </p>
+- 👯 I’m looking to collaborate on **more python projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AX0123SR/](https://github.com/AX0123SR/)
 
